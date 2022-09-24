@@ -1,16 +1,14 @@
-### Hi there 👋
+<p align="center" width="300">
+   <h3 align="center">¡Hola 👋! Soy Rocío 👩‍💻</h3>
+</p>
+<p align="center"><strong>Desarrolladora Frontend</strong><br /></p>
 
-<!--
-**rociobenitez/rociobenitez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Sobre mí
+--------
+- 🧠 Disfruto dando vida a las ideas en el navegador
+- 🎨 Me atrae la estructura de contenido simples y los patrones de diseño limpios
+- ✍🏻 Con qué me gusta diseñar: Figma, Illustrator, Photoshop, Procreate
+- 💻 Qué hablo: HTML, CSS, JavaScript, PHP
+- 🌱 Estoy aprendiendo React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
