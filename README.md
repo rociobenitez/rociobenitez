@@ -10,5 +10,5 @@ Sobre mí
 - 🎨 Me atrae la estructura de contenido simples y los patrones de diseño limpios
 - ✍🏻 Con qué me gusta diseñar: Figma, Illustrator, Photoshop, Procreate
 - 💻 Qué hablo: HTML, CSS, JavaScript, PHP
-- 🌱 Estoy aprendiendo React
+- 🌱 Estoy aprendiendo: React
 
