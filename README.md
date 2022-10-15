@@ -8,8 +8,8 @@ Sobre mí
 --------
 - 🧠 Disfruto dando vida a las ideas en el navegador
 - 🎨 Me atrae la estructura de contenido simples y los patrones de diseño limpios
-- ✍🏻 Con qué me gusta diseñar: Figma, Illustrator, Photoshop, Procreate
 - 💻 Qué hablo: HTML, CSS, JavaScript, PHP
+- ✍🏻 Con qué me gusta diseñar: Figma, Illustrator, Photoshop, Procreate
 - 🌱 Estoy aprendiendo: React
 - 📩 rociobenitez2403@gmail.com
 
