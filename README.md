@@ -11,5 +11,6 @@ Sobre mí
 - 💻 Qué hablo: HTML, CSS, JavaScript, PHP
 - ✍🏻 Con qué me gusta diseñar: Figma, Illustrator, Photoshop, Procreate
 - 🌱 Estoy aprendiendo: React
+- 💎 Si quieres, puedes ver mi [portfolio](https://portfolio-rociobenitez.vercel.app/)
 - 📩 rociobenitez2403@gmail.com
 
