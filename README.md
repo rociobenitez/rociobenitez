@@ -1,7 +1,7 @@
 <p align="center" width="300">
    <h3 align="center">¡Hola 👋! Soy Rocío 👩‍💻</h3>
 </p>
-<p align="center"><strong>Desarrolladora Frontend</strong><br /></p>
+<p align="center"><strong>Desarrolladora FullStack</strong><br /></p>
 
 
 Sobre mí
@@ -13,4 +13,3 @@ Sobre mí
 - 🌱 Estoy aprendiendo: Big Data, Artificial Intelligence & Machine Learning
 - 💎 Si quieres, puedes ver mi [portfolio](https://portfolio-rociobenitez.vercel.app/)
 - 📩 rociobenitez2403@gmail.com
-
