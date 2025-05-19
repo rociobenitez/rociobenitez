@@ -8,7 +8,7 @@ Sobre mí
 --------
 - 🧠 Disfruto dando vida a las ideas en el navegador
 - 🎨 Me atrae la estructura de contenido simples y los patrones de diseño limpios
-- 💻 Qué hablo: HTML, CSS, JavaScript, PHP, SQL
+- 💻 Qué hablo: HTML, CSS, JavaScript, PHP, SQL, Python
 - ✍🏻 Con qué me gusta diseñar: Figma, Illustrator, Photoshop, Procreate
 - 🌱 Estoy aprendiendo: Big Data, Artificial Intelligence & Machine Learning
 - 💎 Si quieres, puedes ver mi [portfolio](https://portfolio-rociobenitez.vercel.app/)
